@@ -25,3 +25,7 @@ div.contact{
 div.intro{
 	height: 28.125rem;
 }
+
+iframe{
+	width: 100%;
+}
